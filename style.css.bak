@@ -1,5 +1,0 @@
-img{
-	width:350px;
-	border:20px solid blue;
-	border-radius:10px;
-}
